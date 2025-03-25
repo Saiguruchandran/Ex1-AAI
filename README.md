@@ -22,9 +22,10 @@ Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
-''' Type your Code here '''
+```
+```
 ## Output:
-''' Show the output in the form screenshorts '''
+
 ## Result:
    Thus a Bayesian Network is generated using Python
 
